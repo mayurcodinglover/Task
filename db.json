@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": "7",
+      "title": "Post 7",
+      "comments": 9,
+      "likes": 13,
+      "author": "David Black",
+      "createdAt": "2023-12-11T07:55:45.234Z"
+    },
+    {
+      "id": "8",
+      "title": "Post 8",
+      "comments": 7,
+      "likes": 22,
+      "author": "Sophie Gray",
+      "createdAt": "2023-12-12T12:18:37.890Z"
+    },
+    {
+      "id": "111",
+      "title": "new title",
+      "comments": "22",
+      "likes": "33",
+      "author": "hello"
+    },
+    {
+      "id": "1",
+      "title": "hello",
+      "comments": "112",
+      "likes": "11",
+      "author": "mayur"
+    },
+    {
+      "id": "3",
+      "title": "new",
+      "comments": "2",
+      "likes": "3",
+      "author": "new"
+    },
+    {
+      "id": "4",
+      "title": "Post 9",
+      "comments": "21",
+      "likes": "2",
+      "author": "mayur"
+    },
+    {
+      "id": "10",
+      "title": "post10",
+      "comments": "2",
+      "likes": "44",
+      "author": "newuser"
+    },
+    {
+      "id": "11",
+      "title": "post1",
+      "comments": "5",
+      "likes": "44",
+      "author": "rahul"
+    },
+    {
+      "id": "2",
+      "title": "Post2",
+      "comments": "22",
+      "likes": "44",
+      "author": "kishan"
+    },
+    {
+      "id": "5",
+      "title": "post5",
+      "comments": "22",
+      "likes": "3",
+      "author": "ganesh"
+    }
+  ]
+}
